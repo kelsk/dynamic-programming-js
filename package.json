@@ -1,0 +1,30 @@
+{
+  "name": "dynamic-programming",
+  "version": "1.0.0",
+  "description": "Dynamic programming practice based on https://github.com/Ada-C12/dynamic-programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelsk/dynamic-programming-js.git"
+  },
+  "author": "kelsk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelsk/dynamic-programming-js/issues"
+  },
+  "homepage": "https://github.com/kelsk/dynamic-programming-js#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.3"
+  },
+  "dependencies": {
+    "expect.js": "^0.3.1"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  }
+}
